@@ -1,4 +1,4 @@
-# big-data-guide
+# big-data-guide 
 Каталог ресурсов по Big Data: фреймворки, курсы, инструменты
 # 📚 Big Data Guide
 
